@@ -1,2 +1,10 @@
-# Bot_Registros_Compra_Deuda
-Este proyecto consistió en el desarrollo de una solución RPA para automatizar el flujo de un proceso manual en un proceso automatizado end-to-end. Utilizando Python (PyautoGUI, Pandas, Ttkbootstrap, win32, entre otros) se logró automatizar todo el proceso, optimizando indicadores y generando más oportunidades para el análisis.
+# Background del Proyecto
+Esta solución RPA automatiza la carga de registros (monto, interés, plazo) del producto compra deuda en la plataforma web indicada, leyendo un archivo Excel y realizando acciones simuladas sobre la interfaz del sistema.
+
+
+# Características
+- Automatiza la carga de datos desde un archivo Excel (`.xlsx`)
+- Interactúa con el sistema SAT mediante imágenes y posiciones de pantalla
+- Guarda logs de actividad por día
+- Envía correos con los resultados procesados
+- Permite guardar y descargar resultados fácilmente
