@@ -10,11 +10,11 @@ Esta solución RPA automatiza la carga de registros (monto, interés, plazo) del
 - Enviar Correo: Envía un correo con los archivos necesarios (excel y logs).
 
 # Características
-- Automatiza la carga de datos desde un archivo Excel (`.xlsx`)
-- Interactúa con el sistema SAT mediante imágenes y posiciones de pantalla
-- Guarda logs de actividad por día
-- Envía correos con los resultados procesados
-- Permite guardar y descargar resultados fácilmente
+- Automatiza la carga de datos desde un archivo Excel (`.xlsx`).
+- Interactúa con el sistema SAT mediante imágenes y posiciones de pantalla.
+- Guarda logs de actividad por día.
+- Envía correos con los resultados procesados.
+- Permite guardar y descargar resultados fácilmente.
 
 # Conclusión
 Este proyecto logró quedar como finalista en el programa de innovación "FLIP Interbank", logrando liberar a 3 asistentes y reduciendo el tiempo del proceso en un 70%.
